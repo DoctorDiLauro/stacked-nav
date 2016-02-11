@@ -1,0 +1,34 @@
+html {
+	box-sizing: border-box;
+  background-color: #ffffff;
+}
+h1 {
+  margin: 0;
+  padding: 1em;
+  background-color: #efeee9;
+  max-width: 20em;
+  text-align: center;
+  font-size: 2rem;
+}
+.beetle-list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
+  max-width: 20em;
+}
+
+.beetle-list li {
+  background-color: #9a816d;
+  border: 1px solid #795437;
+  padding: 1em;
+  font-size: 1.25rem;
+}
+
+.beetle-list li:hover {
+  background-color: #795437;
+}
+
+*, *::before, *::after {
+	box-sizing: inherit;
+}
