@@ -35,6 +35,10 @@ h1 {
   background-color: #795437;
 }
 
+.beetle-list a {
+  
+}
+
 *, *::before, *::after {
   box-sizing: inherit;
 }
