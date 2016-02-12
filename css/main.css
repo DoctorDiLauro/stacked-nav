@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  font-family: "Dosis", sans-serif;
 }
 
 body {
@@ -16,6 +17,7 @@ h1 {
   font-size: 2rem;
   display: block;
 }
+
 .beetle-list {
   margin: 0;
   padding: 0;
