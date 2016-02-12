@@ -36,7 +36,8 @@ h1 {
 }
 
 .beetle-list a {
-  
+  text-decoration: none;
+  color: #fff;
 }
 
 *, *::before, *::after {
